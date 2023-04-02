@@ -22,7 +22,7 @@ global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
 global.owner = ['0716994931'] //ur owner number
 global.ownername = "prasad malinda" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
+global.ytname = "YT: king mali music official " //ur yt chanel name
 global.socialm = "GitHub: Dark" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
